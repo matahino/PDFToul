@@ -13,7 +13,7 @@ This app allows you to do high-performance editing on PDFs.<br>
 ![image](https://github.com/matahino/PDFToul/assets/96413690/c1b9c467-9772-4480-b80f-c6ea13c27c4d)<br>
 
 3. Quick storage<br>
-![image](https://github.com/matahino/PDFToul/assets/96413690/3fdafc73-41c3-4cdd-8808-8624dbb6cbff)<br>
+![スクリーンショット 2024-02-06 212937](https://github.com/matahino/PDFToul/assets/96413690/e676a84f-2ae5-4bc4-abf3-5cc627d6b8b0)<br>
 
 4.Future Prospects<br>
 This app's movement commands and functions are not yet complete, so it will become a more sophisticated PDF editing software in the future.<br>
